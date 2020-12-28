@@ -1,1 +1,1 @@
-# Simple Chat App with Cliend and Server for Compleatied AWS-course task
+# Simple Chat App with Cliend and Server for Compleatied AWS-course Task
