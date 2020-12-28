@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "DTSduaribu_20",
+    "database": "chatdatabase",
+    "host": "mysqlchatdb.cemz2atlhces.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
